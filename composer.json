@@ -1,7 +1,7 @@
 {
   "name": "wexample/symfony-event",
   "description": "What lasts over a period and may be cut into stages: an election and its rounds, a congress, a term, a campaign",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "type": "library",
   "license": "MIT",
   "autoload": {
