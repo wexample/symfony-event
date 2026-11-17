@@ -5,4 +5,4 @@ services:
         public: false
 
     Wexample\SymfonyEvent\:
-        resource: '../../Repository'
+        resource: '../../{Repository}'
